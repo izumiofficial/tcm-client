@@ -1,2 +1,2 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_tcm_client_tcm_client,tcm_client.tcm_client,model_tcm_client_tcm_client,base.group_user,1,1,1,1
+tcm_client.access_client_subscription,access_client_subscription,tcm_client.model_client_subscription,base.group_user,1,1,1,1
